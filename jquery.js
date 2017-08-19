@@ -18,5 +18,5 @@ $(document).ready(function(){
     	$lang = $(this).text();
 	    $("#lang-menu div").text($lang);
   });
-
+  
 });

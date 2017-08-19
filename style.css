@@ -52,7 +52,7 @@ h1 {
 }
 
 .container p {
-		margin: 0;
+	margin: 0;
 	padding-top: 220px;
 }
 
@@ -96,6 +96,7 @@ h1 {
   text-align:center;
 }
 #lang-menu ul li {
+	color: #1C1310;
   padding:6px 0px;
   transition:all .3s ease;
   -webkit-transition:all .3s ease;
@@ -106,4 +107,13 @@ h1 {
   cursor:pointer;
   color:#fff;
   background:rgba(255,255,255,.1);
+}
+
+/* link unstiled*/
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1C1310;
 }
