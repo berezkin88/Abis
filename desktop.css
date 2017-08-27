@@ -1,3 +1,6 @@
+@media screen and (min-width: 481px){
+ 
+
 .header  {
 	
 	background-image: url("board-453758_1920.jpg");
@@ -43,6 +46,7 @@ h1 {
 	padding-top: 180px;
 	text-align: center;
 	text-transform: uppercase;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 .footer p {
@@ -116,4 +120,5 @@ a:link {
 
 a:visited {
     color: #1C1310;
+}
 }
