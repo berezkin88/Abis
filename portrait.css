@@ -3,8 +3,9 @@
 	
 	background-image: url("board-453758_1920.jpg");
 	background-attachment: fixed;
-    background-position: center;
+    background-position: top;
 	background-size: 100%;
+	background-repeat:no-repeat;
 
 	margin: 0;
 	padding: 0;
