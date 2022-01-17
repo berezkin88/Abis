@@ -19,7 +19,7 @@
 .container {
 	margin: 0;
 	padding: 0;
-	background-color: ghostwhite;
+	background-color: rgb(229, 235, 240);
 	width: 100%;
 }
 
@@ -49,9 +49,8 @@ h1 {
 	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
-.footer p {
+.footer p,.footer h2{
 	color: azure;
-	padding-top: 120px;
 	margin: 0;
 	font-size: 24px;
 }
@@ -73,6 +72,10 @@ h1 {
 #content-header {
 	font-size: 36px;
 	margin-top: 0;
+}
+
+.footer .content {
+	margin-top: 3rem;
 }
 
 /*Change language*/
